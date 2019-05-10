@@ -48,7 +48,7 @@ Edit this document to include your answers after each question. Make sure to lea
                 using function method '.call', '.apply' and '.bind'
  - 3. IMPLICIT:  Implicit binding is more likely automatically done. This occurs when the dot '.' notation is used to 
                 invoke a function. It gets its context from whatever is on the left of the dot.
- -4. GLOBAL:    The is the default of 'this' or without a context, 'this' points to the global/window binding.
+ - 4. GLOBAL:    The is the default of 'this' or without a context, 'this' points to the global/window binding.
 
 5. Why do we need super() in an extended class?
  - The super() keyword access the properties and methods in the parent class.
